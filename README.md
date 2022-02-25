@@ -1,2 +1,2 @@
 # better_to_robust
-Code repository for medium article: A journey from easy to robust code
+Companion repository for: [A journey from easy to robust python code](https://medium.com/@piyushdaga5/df526efbaef4)
